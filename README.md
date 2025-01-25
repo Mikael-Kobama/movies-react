@@ -28,8 +28,3 @@ Antes de começar, certifique-se de que você tem as seguintes ferramentas insta
 - [Node.js](https://nodejs.org/) - para rodar a aplicação
 - [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/) - para gerenciamento de pacotes
 - Uma chave de API do TMDB (para acessar a API de filmes)
-
-### Instalação
-
-1. Clone este repositório:
-   ```bash
